@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Perfect Measure",
+  "description": "Measure space between stuff, just like in Sketch",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "howto.html",
+    "default_title": "Click to measure!"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
